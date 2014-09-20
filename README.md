@@ -21,6 +21,8 @@ Playgrounds
 ####Else Statements
 ####Bools
 ####Numeric Type Conversion
+####For Loops
+
 
 
 
