@@ -46,4 +46,24 @@ for var i = 0; i < countArray.count; i++ {
     println("the element item is: \(i)")
 }
 
+/// FOR IN LOOPS
+
+/// for the array using index range
+for tigerAges in 1...3 {
+    println("\(tigerAges)")
+}
+
+/// for one item in the array
+for tigerName in tigerNames {
+    println("\(tigerName)")
+}
+
+// FOR IN ENUMERATE LOOP
+
+// allows for the index and the element to be used in the for in loop
+for(index, tigerName) in enumerate(tigerNames) {
+    
+    println("index: \(index) tigerName: \(tigerName)")
+}
+
 
