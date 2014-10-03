@@ -4,7 +4,7 @@ import UIKit
 
 
 // FUNCTION WITH NO PARAMETERS OR RETURN VALUE
-func printHelloWorld () {
+func printHelloWorld() {
     
     println("Hello World!")
     println("Hello Class!")
@@ -59,3 +59,31 @@ func additionalFunction (firstArgument: Int, secondArgument: Int) -> Int {
 // Call function, passing 2 Int parameters into function and put the return value into a new variable.
 var additionAnswerOfInteger = additionalFunction(2, 4)
 
+
+
+// FUNCTION w/ RETURN VALUE - NO PARAMETERS
+func helloWorldString () -> String {
+    
+    return "Hello World"
+}
+
+// Call function and put the return value into a new Variable
+var helloWorld = helloWorldString()
+helloWorld = helloWorld + "!"
+println(helloWorld)
+
+
+
+// FUNCTION - CALLING A FUNCTION FROM WITHIN A FUNCTION
+func helloClass() -> String {
+    
+    printHelloWorld()
+    
+    return "Hello World"
+}
+
+// call function and put return value in new variable.
+var helloClassString = helloClass()
+
+// print the variable that calls the function, both the return value as well as the value of the additional function that is inside the helloClass function are printed.
+println(helloClassString)
