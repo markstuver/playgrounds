@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>EBADE4D1-4A55-4F12-A30F-FC73B5DA7F16</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Switch Statements</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9EA2DF397E69C66997971A71AEFDD48C44C4BB19</key>
+		<string>github.com:markstuver/playgrounds.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Switch Statements.playground</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9EA2DF397E69C66997971A71AEFDD48C44C4BB19</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:markstuver/playgrounds.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9EA2DF397E69C66997971A71AEFDD48C44C4BB19</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9EA2DF397E69C66997971A71AEFDD48C44C4BB19</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Playgrounds</string>
+		</dict>
+	</array>
+</dict>
+</plist>
