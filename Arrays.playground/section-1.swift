@@ -50,13 +50,13 @@ for var i = 0; i < countArray.count; i++ {
 
 /// for the array using index range
 for tigerAges in 1...3 {
-    println("\(tigerAges)")
+    println(tigerAges)
 }
 
 /// for one item in the array
 for tigerName in tigerNames {
-    println("\(tigerName)")
-}
+    println(tigerName)
+    }
 
 // FOR IN ENUMERATE LOOP
 
