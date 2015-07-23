@@ -1,5 +1,3 @@
-// Playground - noun: a place where people can play
-
 import UIKit
 
 let truckSpeed = 45
@@ -8,16 +6,20 @@ var mySpeed:Int
 
 mySpeed = 69
 
-//If STATEMENT
-        // if myspeed is less then 70 print this
+//: **If STATEMENT**
+
+        //: if myspeed is less then 70 print this
+
         if mySpeed < 70 {
-        println("Keep Crusin'")
+        print("Keep Crusin'")
         }
 
 //ELSE STATEMENT
-            // else print this
+            
+            //: else print this
+            
         else {
-            println("Slow down police ahead")
+            print("Slow down police ahead")
         }
 
 //BOOLs

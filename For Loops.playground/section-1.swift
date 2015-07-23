@@ -33,3 +33,33 @@ var wheat = 1
 //    
 //}
 
+for var i = 0; i < 21; ++i
+{
+    println(i)
+    
+}
+
+//FOR LOOP
+var shoppingList = ["eggs", "milk", "cereal", "flour", "salt", "sugar"]
+
+for var x = 0; x<6; x++
+{
+    println(shoppingList[x])
+}
+
+//FOR IN LOOP (Simplier way to write a For Loop
+var shoppingLists = ["eggs", "milk", "cereal", "flour", "salt", "sugar"]
+
+for item in shoppingLists
+{
+    println(item)
+}
+
+
+
+
+
+
+
+
+
