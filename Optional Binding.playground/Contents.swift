@@ -16,9 +16,11 @@ favoriteSong = "Wild Horses"
 if var currentFavorite = favoriteSong {
    
     //: Note that this variable is already unwrapped, it is **not** an optional!
+    
     print(currentFavorite)
     
     //: Our original optional variable is untouched, it hasn't been unwrapped or anything else, we created a brand new variable. It is still an optional.
+    
     print(favoriteSong)
     
     //: **`currentFavorite` only exists inside this `if statement`, it doesnt exist outside of it.
@@ -30,6 +32,7 @@ if var currentFavorite = favoriteSong {
     favoriteSong = nil
     
     //: This will never be executed, so no error
+    
     if let currentSong = favoriteSong {
         
         print(currentSong)
